@@ -8,14 +8,21 @@
 	overflow:  hidden;
 }
 
+#rat{
+display:inline-block;
+float:right;
+margin-right: 10px;
+margin-left: 20px;
+}
+
 #LickL{
 	border: 2px solid;
 	height: 490px;
 	width: 40%;
 	margin-top: 35px;
 	margin-left: 10%;
+	padding:30px;
 	float: left;
-	padding: 0;
 	background-color: #FFEBCD;
 }
 
@@ -26,16 +33,20 @@
 	margin-top: 35px;
 	margin-right:25%;
 	float: right;
-	padding: 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
 	background-color: #FFEBCD;
 }
 
 #Footer{
+text-align:center;
+font-size:24px;
 	border: 2px solid;
-	height: 50px;
+	height: 100px;
 	width: 65%;
 	margin-top: 35px;
 	margin-left: 10%;
+margin-bottom:100px;
 	float: left;
 	background-color: #FFEBCD;
 }
@@ -62,8 +73,6 @@ p{
 	font-weight: bold;
 	text-align: center;
 }
-
-
 
 
 

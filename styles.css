@@ -64,6 +64,16 @@
 	padding-bottom: 30px;
 	background-color: #FFEBCD;
 }
+#LickB{
+	border: 2px solid;
+	height: 200px;
+	width: 65%;
+	margin-top: 650px;
+	margin-left: 10%;
+	background-color: #FFEBCD;
+	overflow:  hidden;
+    text-align: center;
+}
 
 #Footer{
 text-align:center;

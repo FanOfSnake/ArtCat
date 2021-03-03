@@ -28,7 +28,7 @@
 #SL{
 	border: 2px solid;
 	height: 40px;
-	width: 591px;
+	width: 30.9%;
 	margin-left: 10%;
 	float: left;
 	background-color: #FFEBCD;
@@ -36,8 +36,8 @@
 #SR{
 	border: 2px solid;
 	height: 40px;
-	width: 631px;
-	margin-right:468px;
+	width: 33.72%;
+	margin-right: 24.8%;
 	float: right;
 	background-color: #FFEBCD;
 }
